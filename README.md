@@ -5,7 +5,7 @@ UCI Bootcamp: Deep Learning
 Alphabet Soup is a nonprofit venture capitalist foundation who is looking for ways to maximize their investments. The purpose of this project is to develop a neural network model for Alphabet Soup to classify successful applicants. 
 
 ## Results ##
-### Data Preprocessing:###
+### Data Preprocessing: ###
 - Target Variable: IS_SUCCESSFUL—Was the money used effectively
 - Featured Variables: 
     - APPLICATION_TYPE—Alphabet Soup application type
